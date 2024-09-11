@@ -1,0 +1,28 @@
+{
+  "name": "playwright-demoqa",
+  "version": "1.0.0",
+  "description": "https://demoqa.com/",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolemesc/playwright-demoqa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolemesc/playwright-demoqa/issues"
+  },
+  "homepage": "https://github.com/carolemesc/playwright-demoqa#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^9.0.0",
+    "@playwright/test": "^1.47.0",
+    "@types/node": "^22.5.4"
+  },
+  "dependencies": {
+    "cpf-cnpj-validator": "^1.0.3",
+    "path": "^0.12.7",
+    "xlsx": "^0.18.5"
+  }
+}
